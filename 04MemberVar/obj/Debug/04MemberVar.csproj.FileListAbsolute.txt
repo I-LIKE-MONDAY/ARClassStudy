@@ -1,0 +1,3 @@
+C:\VS_Gwak\WindowsFormsApp2\04MemberVar\obj\Debug\04MemberVar.csproj.AssemblyReference.cache
+C:\VS_Gwak\WindowsFormsApp2\04MemberVar\obj\Debug\04MemberVar.csproj.SuggestedBindingRedirects.cache
+C:\VS_Gwak\WindowsFormsApp2\04MemberVar\obj\Debug\04MemberVar.csproj.CoreCompileInputs.cache

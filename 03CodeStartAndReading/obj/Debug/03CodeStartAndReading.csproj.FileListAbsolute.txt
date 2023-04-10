@@ -1,0 +1,8 @@
+C:\VS_Gwak\WindowsFormsApp2\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.exe.config
+C:\VS_Gwak\WindowsFormsApp2\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.exe
+C:\VS_Gwak\WindowsFormsApp2\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.pdb
+C:\VS_Gwak\WindowsFormsApp2\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.csproj.AssemblyReference.cache
+C:\VS_Gwak\WindowsFormsApp2\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.csproj.SuggestedBindingRedirects.cache
+C:\VS_Gwak\WindowsFormsApp2\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.csproj.CoreCompileInputs.cache
+C:\VS_Gwak\WindowsFormsApp2\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.exe
+C:\VS_Gwak\WindowsFormsApp2\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.pdb
